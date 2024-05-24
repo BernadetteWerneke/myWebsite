@@ -7,3 +7,4 @@ ist meine responsive Portfolio-Webseite in HTML und CSS.
 **CSS Variablen**  
 **Media Queries**  
 **Responsive Webdesign**  
+und voeles mehr...
