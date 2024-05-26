@@ -10,15 +10,15 @@ header{
     width: 850px;
 }
 .circle{
-    height: 600px;
-    width: 600px;
+    height: 500px;
+    width: 500px;
 
     max-height: 80vw;
     max-width: 80vw;
 
     overflow: hidden;
     border-radius: 50%;
-    border: 20px solid var(--main-brand-color);
+    border: 5px solid var(--text-color);
 
     display: flex;
     justify-content: center;
