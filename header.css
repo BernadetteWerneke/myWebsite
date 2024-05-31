@@ -48,7 +48,7 @@ nav a::after{
     content: '';
     height: 2px;
     width: 0;
-    background: var(--main-brand-color);
+    background: var(--text-color);
     position: absolute;
     bottom: 0;
     left: 0;
