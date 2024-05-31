@@ -16,7 +16,7 @@
 .card{
     width: 350px;
     max-width: calc(90% - 40px);
-    background-color: var(--secondary-color);
+    background-color: var(--light-secondary-color);
     border-radius: 100px;
     padding: 60px 20px;
 
