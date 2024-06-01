@@ -6,6 +6,22 @@ footer h2{
     font-size: 50px;
     text-align: center;
 }
+footer h3{
+    margin-top: 80px;
+    font-size: 2rem;
+}
+footer a{
+    margin-top: 5px;
+    display: inline-block;
+    color: var(--secondary-text-color);
+    text-decoration: none;
+}
+footer a:hover{
+    color: var(--text-color);
+}
+footer p{
+    text-align: center;
+}
 .grid_container{
     margin: 60px auto;
     width: 1500px;
@@ -38,10 +54,7 @@ footer h2{
 }
 #item3{
     grid-area: item3;
-    flex-direction: column;
-    justify-content: flex-start;
-    align-items: flex-start;
-    gap: 10px;
+    flex-wrap: wrap;            /* Groesse icons einstellen*/
 }
 #item4{
     grid-area: item4;
