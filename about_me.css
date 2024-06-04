@@ -17,7 +17,7 @@
     border: 15px solid var(--text-color);
 }
 .about_me_container h2{
-    font-size: 80px;
+    font-size: 65px;
 }
 .about_me_container p{
     text-align: justify;
