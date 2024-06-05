@@ -49,7 +49,7 @@ footer a:hover{
 }
 #item3{
     grid-area: item3;
-    flex-wrap: wrap;            /* Groesse icons einstellen*/
+    flex-wrap: wrap;      
 }
 #item4{
     grid-area: item4;
@@ -78,7 +78,7 @@ footer a:hover{
         "item3 item3";
     }
 }
-@media(max-width: 650px){
+@media(max-width: 720px){ /* 650 */
     footer h2{
         font-size: 9vw;
     }
@@ -88,6 +88,7 @@ footer a:hover{
     .grid_item img{
         height: 100px;
         width: 100px;
+        margin: auto;           /* test icon zus rutschen???*/
     }
     .grid_item h3{
         font-size: 24px;
