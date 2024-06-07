@@ -7,7 +7,6 @@ footer h2{
     text-align: center;
 }
 footer h3{
-    margin-top: 80px;
     font-size: 2rem;
 }
 footer a{
@@ -56,7 +55,7 @@ footer a:hover{
 }
 #item3{
     grid-area: item3;
-    flex-wrap: wrap;      
+    flex-wrap: wrap; 
 }
 #item4{
     grid-area: item4;
